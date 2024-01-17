@@ -1,41 +1,38 @@
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="90px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="90px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="90px"><br><br>
+  <h1>Contact Book <a href="https://ebac-proj-agenda-de-contatos.vercel.app/"> Deploy</a></h1>
 
-  # EBAC Desenvolvedor FullStack Java - Front-End
-  <img src="https://i.postimg.cc/3xbR5F7H/rounded-in-photoretrica.png" width="150">
-
-  ## Projeto: Agenda de Contatos
-  ## Visite a [Agenda de Contatos](https://ebac-proj-agenda-de-contatos.vercel.app/)
 </div>
 
-<img src="https://i.postimg.cc/G2yMFRdS/Captura-de-tela-de-2023-11-22-16-55-11.png">
+## Description
 
-## Descrição do Projeto
+This simple Contact Directory project is part of the EBAC FullStack Java Developer course, in the Front-End module. The application allows you to add contacts to the calendar quickly and easily.
 
-Este projeto simples de Agenda de Contatos é parte do curso Desenvolvedor FullStack Java da EBAC, no módulo de Front-End. A aplicação permite adicionar contatos à agenda de forma rápida e fácil.
+<div align="center">
 
-## Funcionalidades
+  ## Image
+  <img src="https://i.postimg.cc/G2yMFRdS/Captura-de-tela-de-2023-11-22-16-55-11.png">
+</div>
 
-- **Adição de Contatos:**
-  - Preencha os campos de "Nome" e "Telefone" e clique no botão "Adicionar" para incluir um novo contato na agenda.
+## Contributing
 
-- **Listagem de Contatos:**
-  - Os contatos adicionados são exibidos abaixo, com o nome e o número de telefone.
+We welcome and appreciate your contributions to this project! Whether you have suggestions, bug fixes, or new features you'd like to add, please feel free to fork this repository.
 
-## Como Utilizar
+### How to Contribute
 
-1. **Acesse o site:**
-   - Visite [Agenda de Contatos](https://ebac-proj-agenda-de-contatos.vercel.app/)
+1. Fork the project.
+2. Create a branch for your contribution: `git checkout -b my-contribution`.
+3. Make your changes and commit: `git commit -m 'Add my contribution'`.
+4. Push to your branch: `git push origin my-contribution`.
+5. Open a pull request for review.
 
-2. **Adicione Contatos:**
-   - Preencha os campos "Nome" e "Telefone" e clique em "Adicionar" para inserir um novo contato.
+## Feedback and Issues
 
-3. **Visualize a Lista:**
-   - Observe a lista de contatos abaixo do formulário.
+If you have contributions, suggestions, or feedback, feel free to open an issue.
 
-## Feedback e Contribuições
-
-Feedbacks são sempre bem-vindos! Se tiver sugestões ou quiser contribuir para a melhoria deste projeto, fique à vontade para abrir uma issue.
-
-<h2 align="center">
-  <i>Agradeço por explorar a Agenda de Contatos desenvolvida como parte do curso Desenvolvedor FullStack Java na EBAC!</i>
-</h2>
+<div align="center">
+  <h2>Full Stack Developer Java: Front-End</h2>
+  <img src="https://i.postimg.cc/3xbR5F7H/rounded-in-photoretrica.png" width="100px">
+</div>
